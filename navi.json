@@ -1,0 +1,34 @@
+[
+  {
+    "navTitle": "<ABOUT />",
+    "navLink": "#about",
+    "navTarget": "",
+    "navClass": "jayNav",
+    "navAtag": "",
+    "isNav": true
+  },
+  {
+    "navTitle": "<INTEREST />",
+    "navLink": "#interest",
+    "navTarget": "",
+    "navClass": "jayNav",
+    "navAtag": "",
+    "isNav": true
+  },
+  {
+    "navTitle": "<PORTFOLIO />",
+    "navLink": "#portfolio",
+    "navTarget": "",
+    "navClass": "jayNav",
+    "navAtag": "",
+    "isNav": true
+  },
+  {
+    "navTitle": "<CONTACT />",
+    "navLink": "#contact",
+    "navTarget": "",
+    "navClass": "jayNav",
+    "navAtag": "",
+    "isNav": true
+  }
+]
